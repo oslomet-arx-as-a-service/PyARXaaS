@@ -1,7 +1,7 @@
 Installing PyARXaaS
 ==================================
 
-.. note:: PyARXaas requires python 3.6 and up. `Python download <https://www.python.org/downloads/>`_
+.. note:: PyARXaaS requires python 3.6 and up. `Python download <https://www.python.org/downloads/>`_
 
 PyARXaaS is available on PyPI
 `PyPI link <https://pypi.org/project/PyAaaS/>`_

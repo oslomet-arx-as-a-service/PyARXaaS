@@ -1,9 +1,9 @@
 Installing PyARXaaS
 ==================================
 
-.. note:: PyAaas requires python 3.6 and up. `Python download <https://www.python.org/downloads/>`_
+.. note:: PyARXaas requires python 3.6 and up. `Python download <https://www.python.org/downloads/>`_
 
-PyAaaS is available on PyPI
+PyARXaaS is available on PyPI
 `PyPI link <https://pypi.org/project/PyAaaS/>`_
 
 
@@ -36,7 +36,7 @@ Mac/Linux
 
 .. code-block:: bash
 
-    python3 -m venv c:\path\to\myenv
+    python3 -m venv /path/to/myenv
 
 4. activate the virtual environment
 
